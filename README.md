@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on advancing my skills in C# and REACT
+I'm currently advancing my skills in Front-End and Back-End Development with a focus in React, JavaScript, TypeScript and more !! Contact me for any more information. :))
 
 
 ## 🌐 Socials:
